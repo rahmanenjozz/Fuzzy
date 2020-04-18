@@ -2,16 +2,16 @@
 Fuzzy Logic untuk pendukung keuputusan penerima modal UMKM <br>
 Fuzzy Logic for supporters of capital recipients
 
-1. Fuzzification Jumlah Aset
+<h3>1. Fuzzification Jumlah Aset</h3>
 <img src="data/Jumlah%20Aset.png">
 
-3. Fuzzification Jumlah Pekerja
+<h3>2. Fuzzification Jumlah Pekerja</h3>
 <img src="data/Jumlah%20Pekerja.png">
 
-4. Fuzzification Lama Usaha
+<h3>3. Fuzzification Lama Usaha</h3>
 <img src="data/Lama%20Usaha.png">
 
-5. Fuzzification Omzet
+<h3>4. Fuzzification Omzet</h3>
 <img src="data/Omzet.png">
 
 <h3>Screenshot</h3>
